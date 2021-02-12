@@ -18,7 +18,7 @@ new Vue({
           favorited: false
         }
         {
-          name: "Umaga",
+          name: "Umagas",
           artist: "The Juans",
           cover: "https://raw.github.com/elyrb/fy/main/img/umaga.jpg",
           source: "https://raw.github.com/elyrb/fy/main/mp3/thejuans/01%20Umaga.mp3",
