@@ -9,7 +9,14 @@ new Vue({
       currentTime: null,
       isTimerPlaying: false,
       tracks: [
-        
+        {
+          name: "secr3t mess4ge",
+          artist: "brayle",
+          cover: "https://raw.github.com/elyrb/fy/main/img/01.jpg",
+          source: "https://raw.github.com/elyrb/fy/main/mp3/pjgdb.m4a",
+          url: " ",
+          favorited: false
+        },
         {
           name: "Umaga",
           artist: "The Juans",
