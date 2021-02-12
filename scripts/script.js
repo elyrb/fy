@@ -10,11 +10,11 @@ new Vue({
       isTimerPlaying: false,
       tracks: [
         {
-          name: "",
-          artist: "",
+          name: " ",
+          artist: " ",
           cover: "https://raw.github.com/elyrb/fy/main/img/01.jpg",
           source: "https://raw.githubusercontent.com/elyrb/fy/main/mp3/pjgdb.m4a",
-          url: ""
+          url: " ",
           favorited: false
         }
         {
