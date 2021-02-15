@@ -108,14 +108,6 @@ new Vue({
           favorited: true
         },
         {
-          name: "Mitsa",
-          artist: "Ben&Ben",
-          cover: "https://raw.github.com/elyrb/fy/main/img/11.jpg",
-          source: "https://raw.github.com/elyrb/fy/main/mp3/ben&ben/07%20Baka%20Sakali%20(feat.%20Ebe%20Dancel).mp3?raw=true",
-          url: "",
-          favorited: true
-        },
-        {
           name: "Baka Sakali",
           artist: "Ben&Ben",
           cover: "https://raw.github.com/elyrb/fy/main/img/11.jpg",
@@ -134,40 +126,40 @@ new Vue({
         {
           name: "Sampaguita",
           artist: "Ben&Ben",
-          cover: "https://raw.github.com/elyrb/fy/main/img/12.jpg",
+          cover: "https://raw.github.com/elyrb/fy/main/img/13.jpg",
           source: "https://raw.github.com/elyrb/fy/main/mp3/ben%26ben/09%20Sampaguita.mp3",
           url: "",
           favorited: true
         },
         {
-          name: "Baka Sakali",
+          name: "War",
           artist: "Ben&Ben",
-          cover: "https://raw.github.com/elyrb/fy/main/img/11.jpg",
-          source: "https://raw.github.com/elyrb/fy/main/mp3/ben&ben/07%20Baka%20Sakali%20(feat.%20Ebe%20Dancel).mp3?raw=true",
+          cover: "https://raw.github.com/elyrb/fy/main/img/14.jpg",
+          source: "https://raw.github.com/elyrb/fy/main/mp3/ben&ben/10%20War.mp3",
           url: "",
           favorited: true
         },
         {
-          name: "Baka Sakali",
+          name: "Godsent",
           artist: "Ben&Ben",
-          cover: "https://raw.github.com/elyrb/fy/main/img/11.jpg",
-          source: "https://raw.github.com/elyrb/fy/main/mp3/ben&ben/07%20Baka%20Sakali%20(feat.%20Ebe%20Dancel).mp3?raw=true",
+          cover: "https://raw.github.com/elyrb/fy/main/img/15.jpg",
+          source: "https://raw.github.com/elyrb/fy/blob/main/mp3/ben&ben/11%20Godsent.mp3",
           url: "",
           favorited: true
         },
         {
-          name: "Baka Sakali",
+          name: "Roots",
           artist: "Ben&Ben",
-          cover: "https://raw.github.com/elyrb/fy/main/img/11.jpg",
-          source: "https://raw.github.com/elyrb/fy/main/mp3/ben&ben/07%20Baka%20Sakali%20(feat.%20Ebe%20Dancel).mp3?raw=true",
+          cover: "https://raw.github.com/elyrb/fy/main/img/16.jpg",
+          source: "https://raw.github.com/elyrb/fy/main/mp3/ben&ben/12%20Roots.mp3",
           url: "",
           favorited: true
         },
         {
-          name: "Baka Sakali",
+          name: "Araw-Araw",
           artist: "Ben&Ben",
-          cover: "https://raw.github.com/elyrb/fy/main/img/11.jpg",
-          source: "https://raw.github.com/elyrb/fy/main/mp3/ben&ben/07%20Baka%20Sakali%20(feat.%20Ebe%20Dancel).mp3?raw=true",
+          cover: "https://raw.github.com/elyrb/fy/main/img/17.jpg",
+          source: "https://raw.github.com/elyrb/fy/main/mp3/ben&ben/13%20Araw-Araw.mp3",
           url: "",
           favorited: true
         }
