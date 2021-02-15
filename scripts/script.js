@@ -67,10 +67,26 @@ new Vue({
           
         },
         {
-          name: "Limasawa Street",
+          name: "Pagtingin",
           artist: "Ben&Ben",
-          cover: "https://raw.github.com/elyrb/fy/main/img/limasawastreet.jpg",
-          source: "https://raw.github.com/elyrb/fy/main/mp3/ben&ben/01%20Limasawa%20Street%20(Steve%20Lillywhite%20Mix).mp3",
+          cover: "https://raw.github.com/elyrb/fy/main/img/6.jpg",
+          source: "https://raw.github.com/elyrb/fy/main/mp3/ben%26ben/02%20Pagtingin.mp3",
+          url: "",
+          favorited: true
+        },
+        {
+          name: "Fall",
+          artist: "Ben&Ben",
+          cover: "https://raw.github.com/elyrb/fy/main/img/7.jpg",
+          source: "https://raw.github.com/elyrb/fy/main/mp3/ben%26ben/02%20Pagtingin.mp3",
+          url: "",
+          favorited: true
+        },
+        {
+          name: "Talaarawan",
+          artist: "Ben&Ben",
+          cover: "https://raw.github.com/elyrb/fy/main/img/8.jpg",
+          source: "https://raw.github.com/elyrb/fy/blob/main/mp3/ben%26ben/04%20Talaarawan.mp3",
           url: "",
           favorited: true
         }
