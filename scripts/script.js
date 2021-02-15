@@ -132,10 +132,10 @@ new Vue({
           favorited: true
         },
         {
-          name: "Baka Sakali",
+          name: "Sampaguita",
           artist: "Ben&Ben",
-          cover: "https://raw.github.com/elyrb/fy/main/img/11.jpg",
-          source: "https://raw.github.com/elyrb/fy/main/mp3/ben&ben/07%20Baka%20Sakali%20(feat.%20Ebe%20Dancel).mp3?raw=true",
+          cover: "https://raw.github.com/elyrb/fy/main/img/12.jpg",
+          source: "https://raw.github.com/elyrb/fy/main/mp3/ben%26ben/09%20Sampaguita.mp3",
           url: "",
           favorited: true
         },
