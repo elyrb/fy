@@ -59,7 +59,7 @@ new Vue({
         },
         {
           name: "Limasawa Street",
-          artist: "Ben&Ben,
+          artist: "Ben&Ben",
           cover: "https://raw.github.com/elyrb/fy/main/img/limasawastreet.jpg",
           source: "https://raw.github.com/elyrb/fy/main/mp3/ben&ben/01%20Limasawa%20Street%20(Steve%20Lillywhite%20Mix).mp3",
           url: "",
@@ -68,7 +68,7 @@ new Vue({
         },
         {
           name: "Limasawa Street",
-          artist: "Ben&Ben,
+          artist: "Ben&Ben",
           cover: "https://raw.github.com/elyrb/fy/main/img/limasawastreet.jpg",
           source: "https://raw.github.com/elyrb/fy/main/mp3/ben&ben/01%20Limasawa%20Street%20(Steve%20Lillywhite%20Mix).mp3",
           url: "",
