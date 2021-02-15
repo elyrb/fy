@@ -78,7 +78,7 @@ new Vue({
           name: "Fall",
           artist: "Ben&Ben",
           cover: "https://raw.github.com/elyrb/fy/main/img/7.jpg",
-          source: "https://raw.github.com/elyrb/fy/main/mp3/ben%26ben/03%20Fall.mp3",
+          source: "https://raw.github.com/elyrb/fy/main/mp3/ben&ben/03%20Fall.mp3",
           url: "",
           favorited: true
         },
@@ -87,6 +87,87 @@ new Vue({
           artist: "Ben&Ben",
           cover: "https://raw.github.com/elyrb/fy/main/img/8.jpg",
           source: "https://raw.github.com/elyrb/fy/blob/main/mp3/ben%26ben/04%20Talaarawan.mp3",
+          url: "",
+          favorited: true
+        },
+        {
+          name: "Hummingbird",
+          artist: "Ben&Ben",
+          cover: "https://raw.github.com/elyrb/fy/main/img/9.jpg",
+          source: "https://raw.github.com/elyrb/fy/main/mp3/ben&ben/05%20Hummingbird.mp3",
+          url: "",
+          favorited: true
+          
+        },
+        {
+          name: "Mitsa",
+          artist: "Ben&Ben",
+          cover: "https://raw.github.com/elyrb/fy/main/img/10.jpg",
+          source: "https://raw.github.com/elyrb/fy/main/mp3/ben%26ben/06%20Mitsa%20(Salamat).mp3",
+          url: "",
+          favorited: true
+        },
+        {
+          name: "Mitsa",
+          artist: "Ben&Ben",
+          cover: "https://raw.github.com/elyrb/fy/main/img/11.jpg",
+          source: "https://raw.github.com/elyrb/fy/main/mp3/ben&ben/07%20Baka%20Sakali%20(feat.%20Ebe%20Dancel).mp3?raw=true",
+          url: "",
+          favorited: true
+        },
+        {
+          name: "Baka Sakali",
+          artist: "Ben&Ben",
+          cover: "https://raw.github.com/elyrb/fy/main/img/11.jpg",
+          source: "https://raw.github.com/elyrb/fy/main/mp3/ben&ben/07%20Baka%20Sakali%20(feat.%20Ebe%20Dancel).mp3?raw=true",
+          url: "",
+          favorited: true
+        },
+        {
+          name: "Lucena",
+          artist: "Ben&Ben",
+          cover: "https://raw.github.com/elyrb/fy/main/img/12.jpg",
+          source: "https://raw.github.com/elyrb/fy/main/mp3/ben&ben/08%20Lucena.mp3?raw=true",
+          url: "",
+          favorited: true
+        },
+        {
+          name: "Baka Sakali",
+          artist: "Ben&Ben",
+          cover: "https://raw.github.com/elyrb/fy/main/img/11.jpg",
+          source: "https://raw.github.com/elyrb/fy/main/mp3/ben&ben/07%20Baka%20Sakali%20(feat.%20Ebe%20Dancel).mp3?raw=true",
+          url: "",
+          favorited: true
+        },
+        {
+          name: "Baka Sakali",
+          artist: "Ben&Ben",
+          cover: "https://raw.github.com/elyrb/fy/main/img/11.jpg",
+          source: "https://raw.github.com/elyrb/fy/main/mp3/ben&ben/07%20Baka%20Sakali%20(feat.%20Ebe%20Dancel).mp3?raw=true",
+          url: "",
+          favorited: true
+        },
+        {
+          name: "Baka Sakali",
+          artist: "Ben&Ben",
+          cover: "https://raw.github.com/elyrb/fy/main/img/11.jpg",
+          source: "https://raw.github.com/elyrb/fy/main/mp3/ben&ben/07%20Baka%20Sakali%20(feat.%20Ebe%20Dancel).mp3?raw=true",
+          url: "",
+          favorited: true
+        },
+        {
+          name: "Baka Sakali",
+          artist: "Ben&Ben",
+          cover: "https://raw.github.com/elyrb/fy/main/img/11.jpg",
+          source: "https://raw.github.com/elyrb/fy/main/mp3/ben&ben/07%20Baka%20Sakali%20(feat.%20Ebe%20Dancel).mp3?raw=true",
+          url: "",
+          favorited: true
+        },
+        {
+          name: "Baka Sakali",
+          artist: "Ben&Ben",
+          cover: "https://raw.github.com/elyrb/fy/main/img/11.jpg",
+          source: "https://raw.github.com/elyrb/fy/main/mp3/ben&ben/07%20Baka%20Sakali%20(feat.%20Ebe%20Dancel).mp3?raw=true",
           url: "",
           favorited: true
         }
