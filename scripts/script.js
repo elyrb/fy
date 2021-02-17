@@ -58,6 +58,14 @@ new Vue({
           favorited: true
         },
         {
+          name: "Sirang Plaka",
+          artist: "The Juans",
+          cover: "https://raw.github.com/elyrb/fy/main/img/8.jpg",
+          source: "https://raw.github.com/elyrb/fy/main/mp3/thejuans/07%20Sirang%20Plaka.mp3",
+          url: "https://www.youtube.com/channel/UCCtXr8HiqtdeJQLfzn4rUVw",
+          favorited: true
+        },
+        {
           name: "Limasawa Street",
           artist: "Ben&Ben",
           cover: "https://raw.github.com/elyrb/fy/main/img/limasawastreet.jpg",
