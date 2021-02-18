@@ -94,7 +94,7 @@ new Vue({
           name: "Talaarawan",
           artist: "Ben&Ben",
           cover: "https://raw.github.com/elyrb/fy/main/img/8.jpg",
-          source: "https://raw.github.com/elyrb/fy/blob/main/mp3/ben%26ben/04%20Talaarawan.mp3",
+          source: "https://github.com/elyrb/fy/blob/main/mp3/ben&ben/04%20Talaarawan.mp3?raw=true",
           url: "",
           favorited: true
         },
